@@ -1,0 +1,6 @@
+train: D:\Vision\data\train\images
+val: D:\Vision\data\valid\images
+test: D:\Vision\data\test\images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
